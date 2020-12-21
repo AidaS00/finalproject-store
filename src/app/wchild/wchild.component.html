@@ -1,0 +1,12 @@
+<div>
+  <div class="card-columns" id="cats">
+    <div class="card" *ngFor="let  clothes of wclothes">
+      <img class="card-img" src="{{clothes.image}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{clothes.name}}</h5>
+        <p class="card-text">{{clothes.price}}</p>
+      </div>
+    </div>
+  </div>
+</div>
+

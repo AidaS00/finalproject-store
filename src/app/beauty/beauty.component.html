@@ -1,0 +1,13 @@
+<h2 class="word"> Best Beauty Products </h2>
+<div>
+
+  <div class="card-columns" id="cloth">
+    <div class="card" *ngFor=" let cloth of Beauty">
+      <img class="card-img" src="{{cloth.image}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{cloth.name}}</h5>
+        <p class="card-text">{{cloth.price}}</p>
+      </div>
+    </div>
+  </div>
+</div>

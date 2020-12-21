@@ -1,0 +1,33 @@
+.word{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 480px;
+  font-family: gotham ;
+}
+
+list{
+  text-align: center;
+  margin-top: 100px;
+}
+.btn-warning {
+  background-color: black;
+  color: white;
+  border-color: black;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-right: 13px;
+
+
+}
+
+.btn-light{
+  background-color: black;
+  color: white;
+  border-color: black;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-right: 10px;
+  margin-left: 600px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}

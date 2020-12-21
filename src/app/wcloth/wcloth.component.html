@@ -1,0 +1,11 @@
+<div>
+  <div class="card-columns" id="cloth">
+    <div class="card" *ngFor=" let cloth of sharedValue">
+      <img class="card-img" src="{{cloth.img}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{cloth.name}}</h5>
+        <p class="card-text">{{cloth.price}}</p>
+      </div>
+    </div>
+  </div>
+</div>

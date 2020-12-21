@@ -1,0 +1,14 @@
+<h3 class="word"> Women's Winter-Autumn Collection </h3>
+  <div>
+    <div class="card-columns" id="cloth">
+      <div class="card" *ngFor=" let cloth of sharedValue">
+        <img class="card-img" src="{{cloth.img}}" alt="Card image cap">
+        <div class="card-body">
+          <h5 class="card-title">{{cloth.name}}</h5>
+          <p class="card-text">{{cloth.price}}</p>
+        </div>
+      </div>
+    </div>
+  <button class="btn-light" (click)="displayPic =! displayPic">Show bags </button>
+  <app-wcloth *ngIf="displayPic" value="catpic"></app-wcloth>
+</div>

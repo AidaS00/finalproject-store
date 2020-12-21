@@ -1,0 +1,15 @@
+<h2 class="word"> Men's Winter-Autumn Collection </h2>
+<div>
+
+  <div class="card-columns" id="cloth">
+    <div class="card" *ngFor=" let cloth of Mclothes">
+      <img class="card-img" src="{{cloth.image}}" alt="Card image cap">
+      <div class="card-body">
+        <h5 class="card-title">{{cloth.name}}</h5>
+        <p class="card-text">{{cloth.price}}</p>
+      </div>
+    </div>
+  </div>
+  <button class="btn-light" (click)="displayPic =! displayPic">Show shoes </button>
+  <app-men *ngIf="displayPic" value="catpic"></app-men>
+</div>

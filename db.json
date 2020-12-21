@@ -1,0 +1,231 @@
+{
+  "Wclothes": [
+    {
+      "id": 1,
+      "image": "/assets/img/pic1.jpg",
+      "name": "GG Marmontt matelasse",
+      "price": "1500$"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/pic2.jpg",
+      "name": "GG Shirt",
+      "price": "1000$"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/pic3.jpg",
+      "name": "White jacket GG",
+      "price": "890$"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/pic4.jpg",
+      "name": "Striped Red Skirt ",
+      "price": "960$"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/pic5.jpg",
+      "name": "GG Red Vist",
+      "price": "1200$"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/pic6.jpg",
+      "name": "Jeans",
+      "price": "600$"
+    }
+  ],
+  "Bags": [
+    {
+      "id": 1,
+      "image": "/assets/img/bag1",
+      "name": "Dionysus small shoulder bag",
+      "price": "1790$"
+
+    },
+    {
+      "id": 2,
+      "image":  "/assets/img/bag2",
+      "name": "GG Marmont mini sequin bucket bag",
+      "price": "1150$"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/bag3" ,
+      "name": "GG Marmont mini bucket bag",
+      "price": "980$"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/bag4" ,
+      "name": "Jackie 1961 small hobo bag",
+      "price": "1980$"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/bag5" ,
+      "name": "Houndstooth and stripe tote with Interlocking G",
+      "price": "1980$"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/bag6" ,
+      "name": "Gucci Horsebit 1955 small shoulder bag",
+      "price": "1590$"
+    }
+  ],
+  "Beauty": [{
+    "id": 1,
+    "image": "/assets/img/b1.jpg",
+    "name": "04, Poudre De Beauté Éclat Soleil Powder",
+    "price": "62$"
+  },
+    {
+      "id": 2,
+      "image": "/assets/img/b2.jpg",
+      "name": " 01, Poudre De Beauté Éclat Soleil Powder",
+      "price": "62$ "
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/b3.jpg",
+      "name": " Fluide De Beauté Fini Naturel foundation",
+      "price": "68$ "
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/b4.jpg",
+      "name": " Fluide De Beauté Fini Naturel foundation",
+      "price": "68$ "
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/b5.jpg",
+      "name": " 200 Blaze of Noon, Rouge à Lèvres Satin Lipstick",
+      "price": " 42$"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/b6.jpg",
+      "name": " Mascara L'Obscur, black",
+      "price": "35$ "
+    }
+  ],
+  "Mclothes": [
+    {
+      "id": 1,
+      "image": "/assets/img/m1.jpg",
+      "name": "Double G jacquard wool cardigan",
+      "price": "1200$"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/m2.jpg",
+      "name": "Cotton pant with Interlocking G patch",
+      "price": "980$"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/m3.jpg",
+      "name": "Interlocking G stripe print T-shirt",
+      "price": "490$"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/m4.jpg",
+      "name": "GG stripe wool coat with Gucci label",
+      "price": "6300$"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/m5.jpg",
+      "name": "Cashmere turtleneck with cat patch",
+      "price": "1350$"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/m6.jpg",
+      "name": "Ken Scott x Gucci print jogging pant",
+      "price": "1400$"
+    }
+  ],
+  "Men": [
+    {
+      "id": 1,
+      "image": "/assets/img/mm1.jpg",
+      "name": "Men's ankle boot with Horsebit",
+      "price": "750$"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/mm2.jpg",
+      "name": "Men's boot with Double G",
+      "price": "980$"
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/mm3.jpg",
+      "name": "Ankle boot with buckle",
+      "price": "1490$"
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/mm4.jpg",
+      "name": "Men's Gucci Tennis 1977 high-top sneaker",
+      "price": "750$"
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/mm5.jpg",
+      "name": "Men's Ace sneaker with Interlocking G",
+      "price": "680$"
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/mm6.jpg",
+      "name": "Men's Ace sneaker with Interlocking G",
+      "price": "650$"
+    }
+  ],
+  "Accessories": [
+    {
+      "id": 1,
+      "image": "/assets/img/a1.jpg",
+      "name": " Icon yellow gold ring with stars",
+      "price": " 920$"
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/a2.jpg",
+      "name": "GG Running yellow gold cufflinks ",
+      "price": "1980$ "
+    },
+    {
+      "id": 3,
+      "image": "/assets/img/a3.jpg",
+      "name": " Tiger head 18k cufflinks",
+      "price": "4650$ "
+    },
+    {
+      "id": 4,
+      "image": "/assets/img/a4.jpg",
+      "name": " Yellow gold necklace with Interlocking G",
+      "price": "2900$ "
+    },
+    {
+      "id": 5,
+      "image": "/assets/img/a5.jpg",
+      "name": " Gucci Flora 18k ring with pavé diamonds",
+      "price": "3250$ "
+    },
+    {
+      "id": 6,
+      "image": "/assets/img/a6.jpg",
+      "name": " GG Running gold single earring",
+      "price": "3600$ "
+    }
+  ]
+}
+
